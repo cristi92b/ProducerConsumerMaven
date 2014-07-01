@@ -42,3 +42,18 @@
    </plugins>
   </build>
 </project>
+
+<!--
+    <plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-jar-plugin</artifactId>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <mainClass>com.yourcompany.YourClass</mainClass>
+            </manifest>
+         </archive>
+       </configuration>
+    </plugin>
+-->
